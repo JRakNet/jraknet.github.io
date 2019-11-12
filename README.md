@@ -20,7 +20,7 @@ If you are using a release version, use this dependency:
 <dependency>
     <groupId>com.whirvis</groupId>
     <artifactId>jraknet</artifactId>
-    <version>2.11.9</version>
+    <version>2.12.0</version>
 </dependency>
 ```
 
